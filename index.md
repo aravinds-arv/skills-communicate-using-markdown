@@ -5,3 +5,7 @@
 ```python
 print("This is code block!")
 ```
+
+- [ ] Head to github-skills
+- [ ] Learn to communicate using markdown
+- [ ] Create awesome README files
